@@ -1,6 +1,6 @@
-![yunjinhyeong's github stats](https://github-readme-stats.vercel.app/api?username=yunjinhyeong&show_icons=true&theme=merko)
-
 ### Hi there 👋
+
+![yunjinhyeong's github stats](https://github-readme-stats.vercel.app/api?username=yunjinhyeong&show_icons=true&theme=merko)
 
 ### BackEnd Developer
 - BE Developer in Mobility industry (Knowledge Graph - Build API)
